@@ -48,14 +48,16 @@ Aneurisma have the commands: <br>
 41."+x" add x to the memory <br>
 42."*x" multiply memory by x <br>
 43."^x" power memory by x <br>
-44."◐" half of memory <br>
-45."◔" a quarter of memory <br>
-46."<x'y" 1 if x are less than y <br>
-47.">x'y" 1 if x are greater than y <br>
-48."≡x" module of memory by x <br>
-49."ɦ" for each item in memory list, set the correspondent item of cells <br>
-50."◯" clear the output <br>
-51."∿" sine of memory <br>
+44."½" half of memory <br>
+45."⅓" a third of memory
+46."◔" a quarter of memory <br>
+47."⅟" signum of memory
+48."<x'y" 1 if x are less than y <br>
+49.">x'y" 1 if x are greater than y <br>
+50."≡x" module of memory by x <br>
+51."ɦ" for each item in memory list, set the correspondent item of cells <br>
+52."◯" clear the output <br>
+53."∿" sine of memory <br>
 
 The replacers are: <br>
 1.Δ  - The memory value <br>

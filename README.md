@@ -55,7 +55,7 @@ Aneurisma have the commands: <br>
 48."<x'y" 1 if x are less than y <br>
 49.">x'y" 1 if x are greater than y <br>
 50."≡x" module of memory by x <br>
-51."ɦ" for each item in memory list, set the correspondent item of cells <br>
+51."⊕" for each item in memory list, set the correspondent item of cells to item of memory list <br>
 52."◯" clear the output <br>
 53."∿" sine of memory <br>
 

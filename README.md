@@ -55,6 +55,7 @@ Aneurisma have the commands: <br>
 48."≡x" module of memory by x <br>
 49."ɦ" for each item in memory list, set the correspondent item of cells <br>
 50."◯" clear the output <br>
+51."∿" sine of memory
 
 the replacers are: <br>
 1.Δ  - The memory value <br>

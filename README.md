@@ -11,8 +11,8 @@ Aneurisma have the commands:
 5."⨅x" Run x until memory are equal to the cell item of pointer
 6."¤" set memory to 0
 7."Ω" stop the program(not obrigatory)
-8."◀" set the memory to a list of correspondents unicodes of memory
-9."▶" inverse of ◀
+8."&#9664" set the memory to a list of correspondents unicodes of memory
+9."&#x25B6" inverse of &#9664
 10."↢x" set the memory to line x
 11."⁕x" run code x (use _ to split code)
 12."⁅" receive input and set the memory to it like in bf

@@ -74,12 +74,8 @@ OBS: replace replace ▶ with the charter Black Right-Pointing Triangle and ◀ 
 Hello, World! program is: <br>
  ```⫰x'Hello,–World! x ←⁞'1 ▶ • ¤```
 
+Cat program is: <br>
+ ```⁅ • ¤```
+
 Quine program is: <br>
- ```↢1 ◀ •```
-
-Cat program is: <br> <br>
- ```⁅ • ¤``` <br>
- ```⁅ • ¤``` <br>
-
-Quine program is: <br> <br>
- ```↢1 ▶ • ``` <br>
+ ```↢1 ▶ • ```

@@ -12,8 +12,8 @@ Aneurisma have the commands: <br>
 5."⨅x" Run x until memory are equal to the cell item of pointer <br>
 6."¤" set memory to 0 <br>
 7."Ω" stop the program(not obrigatory) <br>
-8."◀" set the memory to a list of correspondents unicodes of memory <br>
-9."▶" inverse of ◀ <br>
+8."```◀```" set the memory to a list of correspondents unicodes of memory <br>
+9."```▶```" inverse of ◀ <br>
 10."↢x" set the memory to line x <br>
 11."⁕x" run code x (use _ to split code) <br>
 12."⁅" receive input and set the memory to it like in brainfuck <br>
@@ -75,7 +75,7 @@ The replacers are: <br>
 OBS: replace replace ▶ with the charter Black Right-Pointing Triangle and ◀ with Black Left-Pointing Triangle <br>
 
 Hello, World! program is: <br>
- ```⫰x'Hello,–World! x ←⁞'1 ▶ • ¤```
+ ```⫰x'Hello,–World! x ←⁞'1 ◀ • ¤```
 
 Cat program is: <br>
  ```⁅ • ¤```

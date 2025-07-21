@@ -1,6 +1,6 @@
 # Aneurisma
 A cool like programing language, derived from apl and bf. <br>
-Aneurisma are created in Snap! visual programing language and have 50 commands. <br> 
+Aneurisma are created in Snap! visual programing language and have 56 commands. <br> 
 Aneurisma don't have comments. <br>
 Aneurisma have a memory(the general for of storage) and 50 cells (the second form of storage). <br>
 
@@ -41,9 +41,9 @@ Aneurisma have the commands: <br>
 34."□" sign the memory <br>
 35."=x'y" 1 if x = y <br>
 36."≠x'y" inverse of = <br>
-37."∥" 1 if ptr of cells or memory are 1 (or operator) <br>
-38."×" 0 if memory are 1 (not operator) <br>
-39."&" 1 if ptr of cells and memory are 1 (and operator) <br>
+37."∥x'y" 1 if x or y are 1 (or operator) <br>
+38."×x" 0 if x are 1 (not operator) <br>
+39."&x'y" 1 if x and y are 1 (and operator) <br>
 40."÷x" divide memory by x <br>
 41."+x" add x to the memory <br>
 42."*x" multiply memory by x <br>
@@ -57,7 +57,10 @@ Aneurisma have the commands: <br>
 50."≡x" module of memory by x <br>
 51."⊕" for each item in memory list, set the correspondent item of cells to item of memory list <br>
 52."◯" clear the output <br>
-53."∿" sine of memory <br>
+53."∾" sine of memory <br>
+54."≁" cosine of memory <br>
+55."≀" tangent of memory <br>
+56."†x" set the memory to numbers from memory to x
 
 The replacers are: <br>
 1.Δ  - The memory value <br>

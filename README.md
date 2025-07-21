@@ -13,7 +13,7 @@ Aneurisma have the commands: <br>
 6."¤" set memory to 0 <br>
 7."Ω" stop the program(not obrigatory) <br>
 8."```◀```" set the memory to a list of correspondents unicodes of memory <br>
-9."```▶```" inverse of ◀ <br>
+9."```▶```" inverse of ```◀``` <br>
 10."↢x" set the memory to line x <br>
 11."⁕x" run code x (use _ to split code) <br>
 12."⁅" receive input and set the memory to it like in brainfuck <br>

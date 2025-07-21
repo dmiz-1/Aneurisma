@@ -24,7 +24,7 @@ Aneurisma have the commands: <br>
 17."⁖x" run x until the pointer item of cells is equal to 0 (like [] in brainfuck) <br>
 18."ċx" convert binary x to decimal <br>
 29."ĉx" inverse of ċ <br>
-20."⫕x'y" set memory to join x and y <br>
+20."⫕" set memory to join ptr of cells and memory <br>
 21."⩋x'y'z" if memory = x, run y, else run z <br>
 22."⪦x" set ptr to x <br>
 23."⩡" pow operator, it remove all zeros of the cells, join the non-zero values, move them to the start and put zeros until the cells length is equal to 20 <br>

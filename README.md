@@ -60,8 +60,9 @@ Aneurisma have the commands: <br>
 53."∾" sine of memory <br>
 54."≁" cosine of memory <br>
 55."≀" tangent of memory <br>
-56."†x" set the memory to numbers from memory to x
+56."†x" set the memory to numbers from memory to x <br>
 57."⫖" set memory to join all non-zero values of cells <br>
+58."⫓" like ⫖, but with spaces <br>
 
 The replacers are: <br>
 1.Δ  - The memory value <br>

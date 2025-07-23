@@ -1,6 +1,6 @@
 # Aneurisma
 A cool like programing language, derived from apl and bf. <br>
-Aneurisma are created in Snap! visual programing language and have 56 commands. <br> 
+Aneurisma are created in Snap! visual programing language and have 57 commands. <br> 
 Aneurisma don't have comments. <br>
 Aneurisma have a memory(the general for of storage) and 50 cells (the second form of storage). <br>
 
@@ -61,6 +61,7 @@ Aneurisma have the commands: <br>
 54."≁" cosine of memory <br>
 55."≀" tangent of memory <br>
 56."†x" set the memory to numbers from memory to x
+57."⫖" set memory to join all non-zero values of cells <br>
 
 The replacers are: <br>
 1.Δ  - The memory value <br>

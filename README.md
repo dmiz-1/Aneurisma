@@ -67,11 +67,12 @@ Aneurisma have the commands: <br>
 60."⋃" organizes memory from smallest to largest <br>
 61."⋂" organizes memory from largest to smallest <br>
 62."⫏x'y..." set memory to a list (split items with ') <br>
-63."⩤x" set memory to get item x of memory(use ⨹ for lastitem and ⨺ for first item) <br>
-64."⩥x'y" set memory to replace item x in list memory <br>
+63."⩤x" set memory to get row x of list memory <br>
+64."⩥x" set memory to get column x of list memory <br>
 65."⨲x" remove item x of list memory <br>
 66."⪫x" set memory to index of x of list memory <br>
 67."⩨x'y" set memory to item x of row y <br>
+68."⨪x'y" set memory to replace item x in list memory <br>
 
 The replacers are: <br>
 1.Δ  - The memory value <br>
@@ -86,7 +87,7 @@ The replacers are: <br>
 10.⨹ - First item of list memory
 11.⨻ - The length of list memory
 
-OBS: replace replace ▶ with the charter Black Right-Pointing Triangle and ◀ with Black Left-Pointing Triangle <br>
+OBS: replace replace ▶ with the charter Black Right-Pointing Triangle and ◀ with Black Left-Pointing Triangle, <br>
 
 Hello, World! program is: <br>
  ```⫏Hello,–World! ◀ •```

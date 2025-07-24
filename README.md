@@ -1,6 +1,6 @@
 # Aneurisma
 A cool like programing language, derived from apl and bf. <br>
-Aneurisma are created in Snap! visual programing language and have 59 commands. <br> 
+Aneurisma are created in Snap! visual programing language and have 67 commands. <br> 
 Aneurisma don't have comments. <br>
 Aneurisma have a memory(the general for of storage) and 50 cells (the second form of storage). <br>
 
@@ -64,6 +64,14 @@ Aneurisma have the commands: <br>
 57."⫖" set memory to join all non-zero values of cells <br>
 58."⫓" like ⫖, but with spaces <br>
 59."⩒" set all cells to 0 <br>
+60."⋃" organizes memory from smallest to largest <br>
+61."⋂" organizes memory from largest to smallest <br>
+62."⫏x'y..." set memory to a list (split items with ') <br>
+63."⩤x" set memory to get item x of memory(use ⨹ for lastitem and ⨺ for first item) <br>
+64."⩥x'y" set memory to replace item x in list memory <br>
+65."⨲x" remove item x of list memory <br>
+66."⪫x" set memory to index of x of list memory <br>
+67."⩨x'y" set memory to item x of row y <br>
 
 The replacers are: <br>
 1.Δ  - The memory value <br>
@@ -74,11 +82,14 @@ The replacers are: <br>
 6.⨞  - The ptr <br>
 7.⨽  - Ptr of cells <br>
 8.⨼  - Ptr-1 of cells <br>
+9.⨹  - Last item of list memory
+10.⨹ - First item of list memory
+11.⨻ - The length of list memory
 
 OBS: replace replace ▶ with the charter Black Right-Pointing Triangle and ◀ with Black Left-Pointing Triangle <br>
 
 Hello, World! program is: <br>
- ```⫰x'Hello,–World! x ←⁞'1 ◀ • ¤```
+ ```⫏Hello,–World! ◀ •```
 
 Cat program is: <br>
  ```⁅ • ¤```

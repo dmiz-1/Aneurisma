@@ -1,12 +1,12 @@
 # Aneurisma
-A cool like programing language, derived from apl and bf. <br>
-Aneurisma are created in Snap! visual programing language and have 67 commands. <br> 
+A cool like programing language, derived from apl, bf and thue. <br>
+Aneurisma are created in Snap! visual programing language, have 71 commands and 14 replacers. <br> 
 Aneurisma don't have comments. <br>
-Aneurisma have a memory(the general for of storage) and 50 cells (the second form of storage). <br>
+Aneurisma have a memory(the general for of storage) and 100 cells (the second form of storage). <br>
 
 Aneurisma have the commands: <br>
 1."-x" remove x from memory <br>
-2."⫰x'y" replace x with y in actual section to the last <br>
+2."⫰x'y" replace x with y from the actual line+1 to end of script <br>
 3."←x'y" set the memory of section x of line y <br>
 4."•" print memory like in brainfuck <br>
 5."⨅x" Run x until memory are equal to the cell item of pointer <br>
@@ -73,6 +73,9 @@ Aneurisma have the commands: <br>
 66."⪫x" set memory to index of x of list memory <br>
 67."⩨x'y" set memory to item x of row y <br>
 68."⨪x'y" set memory to replace item x in list memory <br>
+69."∂x" set memory to map code x for each item in list memory <br>
+70."≎x'y" add x to index y in memory list <br>
+71."↻x'y" run x y times (if y are null, run x forever) <br>
 
 The replacers are: <br>
 1.Δ  - The memory value <br>
@@ -83,17 +86,21 @@ The replacers are: <br>
 6.⨞  - The ptr <br>
 7.⨽  - Ptr of cells <br>
 8.⨼  - Ptr-1 of cells <br>
-9.⨹  - Last item of list memory
-10.⨹ - First item of list memory
-11.⨻ - The length of list memory
+9.⨹  - Last item of list memory <br>
+10.⨹ - First item of list memory <br>
+11.⨻ - The length of list memory <br>
+And 3 expecial for ∂:
+12.i - The item
+13.j - The index
+14.k - The list
 
 OBS: replace replace ▶ with the charter Black Right-Pointing Triangle and ◀ with Black Left-Pointing Triangle, <br>
 
 Hello, World! program is: <br>
- ```⫏Hello,–World! ◀ •```
+ ```⫏Hello,–World! ◀ • ¤```
 
 Cat program is: <br>
  ```⁅ • ¤```
 
 Quine program is: <br>
- ```↢1 ▶ • ```
+ ```↢1 ▶ • ¤```

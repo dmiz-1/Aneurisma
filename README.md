@@ -6,9 +6,9 @@ Aneurisma have a memory(the general for of storage) and 100 cells (the second fo
 
 Aneurisma have the commands: <br>
 1."-x" remove x from memory <br>
-2."⫰x'y" replace x with y from the actual line+1 to end of script <br>
+2."⫰x'y" replace x with y from the actual line+1 to end of script (inspired by thue)<br>
 3."←x'y" set the memory of section x of line y <br>
-4."•" print memory like in brainfuck <br>
+4."•" print memory like in bf <br>
 5."⨅x" Run x until memory are equal to the cell item of pointer <br>
 6."¤" set memory to 0 <br>
 7."Ω" stop the program(not obrigatory) <br>
@@ -16,12 +16,12 @@ Aneurisma have the commands: <br>
 9."```▶```" inverse of ```◀``` <br>
 10."↢x" set the memory to line x <br>
 11."⁕x" run code x (use _ to split code) <br>
-12."⁅" receive input and set the memory to it like in brainfuck <br>
+12."⁅" receive input and set the memory to it like in bf <br>
 13."⨭x" move x in cells <br>
 14."⨍" set memory to the cell of pointer <br>
 15."ʃ" inverse of ⨍ <br>
 16."◡" run memory as Aneurisma code <br>
-17."⁖x" run x until the pointer item of cells is equal to 0 (like [] in brainfuck) <br>
+17."⁖x" run x until the pointer item of cells is equal to 0 (like [] in bf) <br>
 18."ċx" convert binary x to decimal <br>
 29."ĉx" inverse of ċ <br>
 20."⫕" set memory to join ptr of cells and memory <br>

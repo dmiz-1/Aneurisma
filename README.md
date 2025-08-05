@@ -89,12 +89,12 @@ The replacers are: <br>
 9.⨹  - Last item of list memory <br>
 10.⨹ - First item of list memory <br>
 11.⨻ - The length of list memory <br>
-And 3 expecial for ∂:
-12.i - The item
-13.j - The index
-14.k - The list
-15.l - i + 1
-16.m - i - 1
+And 3 expecial for ∂: <br>
+12.i - The item <br>
+13.j - The index <br>
+14.k - The list <br>
+15.l - i + 1 <br>
+16.m - i - 1 <br>
 
 OBS: replace replace ▶ with the charter Black Right-Pointing Triangle and ◀ with Black Left-Pointing Triangle, <br>
 

@@ -1,6 +1,6 @@
 # Aneurisma
 A cool like programing language, derived from apl, bf and thue. <br>
-Aneurisma are created in Snap! visual programing language, have 71 commands and 14 replacers. <br> 
+Aneurisma are created in Snap! visual programing language, have 71 commands and 16 replacers. <br> 
 Aneurisma don't have comments. <br>
 Aneurisma have a memory(the general for of storage) and 100 cells (the second form of storage). <br>
 
@@ -93,6 +93,8 @@ And 3 expecial for ∂:
 12.i - The item
 13.j - The index
 14.k - The list
+15.l - i + 1
+16.m - i - 1
 
 OBS: replace replace ▶ with the charter Black Right-Pointing Triangle and ◀ with Black Left-Pointing Triangle, <br>
 

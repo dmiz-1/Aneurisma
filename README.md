@@ -87,7 +87,7 @@ The replacers are: <br>
 7.⨽  - Ptr of cells <br>
 8.⨼  - Ptr-1 of cells <br>
 9.⨹  - Last item of list memory <br>
-10.⨹ - First item of list memory <br>
+10.⨺ - First item of list memory <br>
 11.⨻ - The length of list memory <br>
 And 3 expecial for ∂: <br>
 12.i - The item <br>

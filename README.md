@@ -105,4 +105,4 @@ Cat program is: <br>
  ```⁅ • ¤```
 
 Quine program is: <br>
- ```↢1 ▶ • ¤```
+ ```↢1 ◀ • ¤```
